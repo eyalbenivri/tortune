@@ -82,4 +82,5 @@ var db = [...]string{
 	"There are 10 types of people in the world. Those who can count in binary, and those who can't.",
 	"Ah, the Pixelbook. Not as clumsy or random as a Mac; an elegant weapon for a more civilized age.",
 	"It works on my container!",
+	"What happens when someone slaps you in a high frequency? It Megahertz",
 }
